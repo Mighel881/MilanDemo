@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "Milan.caar",
+      "idiom" : "universal",
+      "universal-type-identifier" : "com.apple.caar"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
